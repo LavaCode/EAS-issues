@@ -1,0 +1,39 @@
+{
+    "launcher": {
+
+    },
+    "login": {
+
+    },
+    "control": {
+
+    },
+    "advanced": {
+
+    },
+    "settings": {
+
+    },
+    "help": {
+        "instructions": {
+            "nl": "\n1. Druk op 'Start Systeem' om het systeem op te starten. \n     Wanneer de knop niet meer knippert is het systeem opgestart.\n2. Selecteer een ruimte om te bedienen \n3. Vervolg zo de tour\n4. Sluit het systeem af met 'Stop Systeem'\n5. Met 'Werklicht' kan het werklicht worden geschakeld\n6. Met 'Geavanceerd' --> 'Showlicht' kan er een presentatiestand aangezet worden zonder tour\n7. Met 'Reset' zet het systeem alles klaar voor een tour",
+            "en": "\n1. Press 'Start System' to switch the system ON. \n     When the button stops flashing, the system is started.\n2. Select an area to control \n3. Continue the tour the same way\n4. Shut the system down with 'Stop System'\n5. With 'Worklight' you can control the worklights\n6. With 'Advanced' --> 'Showlight' you enable an presentation mode without tour\n7. With 'Load preset' the system will prepare a tour"
+        },
+        "notes": {
+            "nl": "Wanneer een knop blauw van kleur is, is dit een actieve stand.\nWanneer een knop knippert is het systeem druk met de functie." ,
+            "en": "If a button is blue, this means it's active.\nIf a button is flashing this means the system is busy with that function." 
+        }
+    },
+    "how": {
+
+    },
+    "what": {
+
+    },
+    "why": {
+
+    },    
+    "additional": {
+
+    }
+}

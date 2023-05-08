@@ -1,0 +1,65 @@
+{
+    "project": "Brinks",
+    "subtitle": "Innovation Centre",
+    "ipAddress": "http://172.16.54.241",
+    "users": {
+        "1": {
+            "username": "test",
+            "password": "test"
+        },
+        "2": {
+            "username": "admin",
+            "password": "admin"
+        },
+        "3": {
+            "username": "gebruiker",
+            "password": "gebruiker"
+        }
+    },
+    "pin": "0000",
+    "support": {
+        "contact": {
+            "email": "support@rapenburgplaza.nl",
+            "phone": "(+31)020-6206212"
+        }
+    },
+    "timelineNumbers": 
+        {
+            "startSystem": "1002",
+            "stopSystem": "1003",
+            "worklight": "1004",    
+            "doorOpen": "4001",
+            "doorClose": "4002",
+            "curtainOpen": "4004",
+            "curtainClose": "4005",
+            "startMovieNL": "5002",
+            "startMovieEN": "5003",
+            "stopMovie": "5004",
+            "muteMovie": "5005",
+            "unmuteMovie": "5006",
+            "howPreset": "5008",
+            "startSession": "5009",
+            "startBreak": "5010",
+            "startFlowbuilding": "5011",
+            "endFlowbuilding": "5012",
+            "lightWhatPreset": "5014",
+            "lightWhatDemo": "5015",
+            "lightWhatRecap": "5016",
+            "lightWhatOff": "5017",
+            "projector1status": "4013",
+            "projector2status": "4018",
+            "projector1on": "4007",
+            "projector2on": "4008",
+            "projector1off": "4010",
+            "projector2off": "4011",
+            "presentation": "4033",
+            "loadShowPreset": "4035",
+            "showroomOn": "4037",
+            "showroomOff": "4038",
+            "curtainStop": "4040",
+            "calibration": "4042",
+            "startVaultEnglish": "0000",
+            "startVaultDutch": "0000",
+            "resetVault": "0000"
+        }
+}

@@ -1,15 +1,10 @@
 {
   "expo": {
-    "name": "brinks2",
-    "slug": "brinks2",
-    "version": "1.0.0",
-    "orientation": "portrait",
+    "name": "Brinks",
+    "slug": "brinks",
+    "version": "2.0.0",
+    "orientation": "landscape",
     "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -17,16 +12,20 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lavacode.brinks"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+      "icon": "./assets/icon.png",
+      "package": "com.lavacode.brinks"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "29b7b9d0-db6f-4a67-9855-7b8793a66484"
+      }
     }
   }
 }

@@ -1,0 +1,27 @@
+Must do's:
+- Kiosk mode (search for manifest android in app.json expo)
+  (https://forums.expo.dev/t/androidmanifest-xml-file/23074)
+  (https://docs.expo.dev/guides/permissions/?redirected) 
+  CURRENTLY: we have a solution with a 3rd party app to solve this, work this out for future projects
+- Finish advanced functionalities.
+
+Project dedicated:
+- Landscape
+- Open URL 
+
+Extra's:
+- Settings: developer info with pin? to see timelines ( - map through timelinenumbers array for developer )
+  STORE TRIGGERNUMBERS IN STORAGE, WITH POSSIBILITY TO CHANGE IT 
+- Settings: set device IP
+- Settings: option to register/delete/update new user? with data base? 
+- Settings: pincode: user defined pincode? 
+- Settings: language switcher(/selector): including all language
+- when screen goes idle, log off (or through (custom set) inactivity timer?) -- if login is enabled
+- Create blank project for future projects
+- Change all triggernumbers to retrieve from storage
+
+Styling related: 
+- Check styling android vs web in controls screen - goal is to make app multifunctional. 
+
+Known bugs: 
+NOPE! 
